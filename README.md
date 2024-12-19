@@ -51,7 +51,7 @@
 <a href="https://linkedin.com/in/mustafasenlik" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://medium.com/@mustafasenliik" target="_blank">
+  <a href="https://medium.com/@mustafasenlik" target="_blank">
 <img src=https://img.shields.io/badge/medium-%2324298e.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 </div>  
@@ -70,9 +70,9 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [DevOps: Modern Yazılım Geliştirmenin Kalbi](https://medium.com/@mustafasenliik/devops-modern-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmenin-kalbi-e444e4162a60)
-- [Rust’ta Sahiplik ve Bellek Yönetimi: Daha Derine İnelim](https://medium.com/@mustafasenliik/rustta-sahiplik-ownership-nedir-ve-neden-%C3%B6nemlidir-c0ffccb55dfe)
-- [Rust’ta Struct ve Method’lar: Bir Sosyal Medya Takipçi Uygulaması](https://medium.com/@mustafasenliik/rustta-struct-ve-method-lar-bir-sosyal-medya-takip%C3%A7i-uygulamas%C4%B1-7d3e750075b1)
+- [DevOps: Modern Yazılım Geliştirmenin Kalbi](https://medium.com/@mustafasenlik/devops-modern-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmenin-kalbi-e444e4162a60)
+- [Rust’ta Sahiplik ve Bellek Yönetimi: Daha Derine İnelim](https://medium.com/@mustafasenlik/rustta-sahiplik-ownership-nedir-ve-neden-%C3%B6nemlidir-c0ffccb55dfe)
+- [Rust’ta Struct ve Method’lar: Bir Sosyal Medya Takipçi Uygulaması](https://medium.com/@mustafasenlik/rustta-struct-ve-method-lar-bir-sosyal-medya-takip%C3%A7i-uygulamas%C4%B1-7d3e750075b1)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
