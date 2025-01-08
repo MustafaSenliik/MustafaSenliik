@@ -70,9 +70,9 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Bir Proje Nasıl Docker ile Canlıya Alınır?](https://medium.com/@mustafasenlik/bir-proje-nas%C4%B1l-docker-ile-canl%C4%B1ya-al%C4%B1n%C4%B1r-6f7296231812)
 - [Docker Compose : Birden Fazla Container’ı Yönetmenin Kolay Yolu](https://medium.com/@mustafasenlik/docker-compose-birden-fazla-container%C4%B1-y%C3%B6netmenin-kolay-yolu-61dbb0c0f86e)
 - [DevOps: Modern Yazılım Geliştirmenin Kalbi](https://medium.com/@mustafasenlik/devops-modern-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmenin-kalbi-e444e4162a60)
-- [Rust’ta Sahiplik ve Bellek Yönetimi: Daha Derine İnelim](https://medium.com/@mustafasenlik/rustta-sahiplik-ownership-nedir-ve-neden-%C3%B6nemlidir-c0ffccb55dfe)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
