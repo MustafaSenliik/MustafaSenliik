@@ -33,7 +33,8 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50" />    
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="50" />   
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />  
 </div></td></tr></table>  
