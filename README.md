@@ -71,7 +71,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [LLM’ler İçin VRAM Nedir ve Hangi GPU’lar Uygun?](https://medium.com/@mustafasenlik/b%C3%BCy%C3%BCk-dil-modelleri-llm-i%CC%87%C3%A7in-vram-nedir-ve-hangi-gpular-uygun-487682cd625c)
 - [AI Modelini Eğitmek İçin Cloud GPU Kullan!](https://medium.com/@mustafasenlik/ai-modelini-e%C4%9Fitmek-i%CC%87%C3%A7in-cloud-gpu-kullan-en-i%CC%87yi-se%C3%A7enekler-ve-fiyatlar-e720797ba9b7)
+- [Docker Swarm vs Kubernetes: Geliştirici Gözünden Deneyim ve Karşılaştırma](https://medium.com/@mustafasenlik/docker-swarm-vs-kubernetes-geli%C5%9Ftirici-g%C3%B6z%C3%BCnden-deneyim-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-305dabb43c52)
+- [Docker Swarm ile Flask Uygulamasını Canlıya Alma ve Karşılaşılan Sorunlar](https://medium.com/@mustafasenlik/docker-swarm-ile-flask-uygulamas%C4%B1n%C4%B1-canl%C4%B1ya-alma-ve-kar%C5%9F%C4%B1la%C5%9F%C4%B1lan-sorunlar-80761bebe696)
 - [Bir Proje Nasıl Docker ile Canlıya Alınır?](https://medium.com/@mustafasenlik/bir-proje-nas%C4%B1l-docker-ile-canl%C4%B1ya-al%C4%B1n%C4%B1r-6f7296231812)
 - [Docker Compose : Birden Fazla Container’ı Yönetmenin Kolay Yolu](https://medium.com/@mustafasenlik/docker-compose-birden-fazla-container%C4%B1-y%C3%B6netmenin-kolay-yolu-61dbb0c0f86e)
 - [DevOps: Modern Yazılım Geliştirmenin Kalbi](https://medium.com/@mustafasenlik/devops-modern-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmenin-kalbi-e444e4162a60)
