@@ -71,6 +71,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [AI Modelini Eğitmek İçin Cloud GPU Kullan!]([https://medium.com/@mustafasenlik/bir-proje-nas%C4%B1l-docker-ile-canl%C4%B1ya-al%C4%B1n%C4%B1r-6f7296231812](https://medium.com/@mustafasenlik/ai-modeli))
 - [Bir Proje Nasıl Docker ile Canlıya Alınır?](https://medium.com/@mustafasenlik/bir-proje-nas%C4%B1l-docker-ile-canl%C4%B1ya-al%C4%B1n%C4%B1r-6f7296231812)
 - [Docker Compose : Birden Fazla Container’ı Yönetmenin Kolay Yolu](https://medium.com/@mustafasenlik/docker-compose-birden-fazla-container%C4%B1-y%C3%B6netmenin-kolay-yolu-61dbb0c0f86e)
 - [DevOps: Modern Yazılım Geliştirmenin Kalbi](https://medium.com/@mustafasenlik/devops-modern-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmenin-kalbi-e444e4162a60)
