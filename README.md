@@ -71,6 +71,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Docker ile AI: Konteynerleştirme ile Ölçeklenebilir Çözümler](https://medium.com/@mustafasenlik/docker-ile-ai-konteynerle%C5%9Ftirme-ile-%C3%B6l%C3%A7eklenebilir-%C3%A7%C3%B6z%C3%BCmler-7abf9d7fe57f)
 - [LLM’ler İçin VRAM Nedir ve Hangi GPU’lar Uygun?](https://medium.com/@mustafasenlik/b%C3%BCy%C3%BCk-dil-modelleri-llm-i%CC%87%C3%A7in-vram-nedir-ve-hangi-gpular-uygun-487682cd625c)
 - [AI Modelini Eğitmek İçin Cloud GPU Kullan!](https://medium.com/@mustafasenlik/ai-modelini-e%C4%9Fitmek-i%CC%87%C3%A7in-cloud-gpu-kullan-en-i%CC%87yi-se%C3%A7enekler-ve-fiyatlar-e720797ba9b7)
 - [Docker Swarm vs Kubernetes: Geliştirici Gözünden Deneyim ve Karşılaştırma](https://medium.com/@mustafasenlik/docker-swarm-vs-kubernetes-geli%C5%9Ftirici-g%C3%B6z%C3%BCnden-deneyim-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-305dabb43c52)
