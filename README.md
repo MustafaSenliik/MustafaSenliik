@@ -72,6 +72,7 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Hack Your Pod: Kubernetes’te Yetki Ele Geçirme ve Korunma Yöntemleri](https://medium.com/@mustafasenlik/hack-your-pod-kuberneteste-yetki-ele-ge%C3%A7irme-ve-korunma-y%C3%B6ntemleri-659cdcc96a64)
+- [Tarayıcı Kontrolünü AI’ye Bırak: Browser Use ile Otomasyonun Gücünü Keşfet!](https://medium.com/@mustafasenlik/taray%C4%B1c%C4%B1-kontrol%C3%BCn%C3%BC-aiye-b%C4%B1rak-browser-use-browser-ile-otomasyonun-g%C3%BCc%C3%BCn%C3%BC-ke%C5%9Ffet-81482aed5d02)
 - [Docker ile AI: Konteynerleştirme ile Ölçeklenebilir Çözümler](https://medium.com/@mustafasenlik/docker-ile-ai-konteynerle%C5%9Ftirme-ile-%C3%B6l%C3%A7eklenebilir-%C3%A7%C3%B6z%C3%BCmler-7abf9d7fe57f)
 - [LLM’ler İçin VRAM Nedir ve Hangi GPU’lar Uygun?](https://medium.com/@mustafasenlik/b%C3%BCy%C3%BCk-dil-modelleri-llm-i%CC%87%C3%A7in-vram-nedir-ve-hangi-gpular-uygun-487682cd625c)
 - [AI Modelini Eğitmek İçin Cloud GPU Kullan!](https://medium.com/@mustafasenlik/ai-modelini-e%C4%9Fitmek-i%CC%87%C3%A7in-cloud-gpu-kullan-en-i%CC%87yi-se%C3%A7enekler-ve-fiyatlar-e720797ba9b7)
