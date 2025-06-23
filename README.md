@@ -3,10 +3,9 @@
 ### <div align="center">I'm Mustafa, a full-time Software Developer </div>  
   
 
-- 🔭 I’m currently working on DevOps
-  
-
-- ❓ Ask me about and DevOps and Blockchain
+🚀 Currently building automation pipelines and container-based architectures.  
+💡 Passionate about Kubernetes, Infrastructure as Code (IaC), and Blockchain integrations.  
+🛠️ I share insights and technical blogs on DevOps best practices on Medium.
   
   
 <br/>  
@@ -61,15 +60,29 @@
 <br/>  
 
 
-## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasenliik" align="right" /></div>  
+## 📊 GitHub Stats
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=mustafasenliik&show_icons=true&count_private=true)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mustafasenliik&show_icons=true&theme=dark&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasenliik&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <br/>  
 
 
-## Recent Blog Posts  
+## 📝 Recent Blog Posts
+
+> I regularly publish articles on DevOps, container orchestration, and cloud-native practices.
+
 <!-- BLOG-POST-LIST:START -->
 - [Hack Your Pod: Kubernetes’te Yetki Ele Geçirme ve Korunma Yöntemleri](https://medium.com/@mustafasenlik/hack-your-pod-kuberneteste-yetki-ele-ge%C3%A7irme-ve-korunma-y%C3%B6ntemleri-659cdcc96a64)
 - [Docker ile AI: Konteynerleştirme ile Ölçeklenebilir Çözümler](https://medium.com/@mustafasenlik/docker-ile-ai-konteynerle%C5%9Ftirme-ile-%C3%B6l%C3%A7eklenebilir-%C3%A7%C3%B6z%C3%BCmler-7abf9d7fe57f)
