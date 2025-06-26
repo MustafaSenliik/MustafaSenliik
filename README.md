@@ -67,9 +67,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=mustafasenliik&show_icons=true&theme=dark&count_private=true" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasenliik&layout=compact&theme=dark" />
-    </td>
+  
   </tr>
 </table>
 
